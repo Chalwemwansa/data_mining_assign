@@ -10,25 +10,23 @@ This lack of direction means that updates can be random or uneven and some topic
 
 Over time this results in a reduced quality of content on and about Zambia making the platform less valuable as a resource for people who rely on it for research learning or keeping up with developments in the country
 
-
 ## Business Objectives
 
 From a practical real world view success for this project means being able to identify what is old and what is still current  
 It is about detecting and flagging sections or whole Zambian Wikipedia pages like the Zambia page that hold stale facts  
-Clear signals help both readers and editors see where drift has happened and how serious it is  
+Clear signals help both readers and editors see where drift has happened and how serious it is
 
 The next step is to make updates easier not harder  
 Contributors especially Zambian Wikipedians need a simple way to spot which pages or sections most need attention for factual recency  
 This supports the DataLab Research group as it explores strategies for improving contributions on and about Zambia  
-Having a clear queue of priority pages is more useful than relying on guesswork or scattered edits  
+Having a clear queue of priority pages is more useful than relying on guesswork or scattered edits
 
 The long term aim is to raise the overall currency of information on Wikipedia pages about Zambia  
 Fresher content increases trust and value whether the pages are used in schools in media or in everyday research  
-When updates become routine and guided the quality of the whole collection improves steadily  
+When updates become routine and guided the quality of the whole collection improves steadily
 
 These objectives align with the CRISP DM phase of Business Understanding  
-Here the aim is to define broad and specific goals while also staying close to the needs of the community that relies on and contributes to this knowledge  
-
+Here the aim is to define broad and specific goals while also staying close to the needs of the community that relies on and contributes to this knowledge
 
 ## Data Mining
 
@@ -37,3 +35,21 @@ To meet the business obejectives, our task is to develop a classification model 
 Beyond classification, we also aim to analyse edit histories to reveal how quickly different topics become outdated. Some pages, like those on politics, may need frequent updates, while others such as geography remain stable for longer. Spotting these trends helps contributors anticipate where attention will be needed next.
 
 Finally, the project should provide ranking metrics that highlight high-priority pages. Instead of random edits, contributors can follow a clear queue that shows where updates will have the most impact. In this way, data mining goals directly support fresher, more reliable information on Wikipedia pages about Zambia
+
+# Initial Project Success Criteria
+
+Our initial criteria for project success will be measured by:
+
+- **Classification Accuracy**  
+  The classification model should achieve an accuracy of at least 85% in correctly identifying the recency level of data on Zambian Wikipedia pages. This will serve as a key benchmark for determining whether the project is meeting its early objectives
+
+- **Interpretability and Actionability**  
+  The predictions of the model and the factors influencing them must be understandable to human editors. Contributors should be able to see why a page is flagged as outdated and also get clear guidance on what needs updating. The results should be actionable so Wikipedians can focus their efforts where they matter most
+
+- **Scalability**  
+  The model should be capable of being applied to a wide range of Zambian Wikipedia pages and not just a single Zambia page. Broader application will make the tool useful for long term and large scale improvements
+
+- **Feedback Integration**  
+  Another measure of success will be how well the model’s insights can be integrated into a tool or dashboard that Wikipedians can use. This would allow contributors to receive notifications or recommendations for content updates in a more structured and user friendly way
+
+These criteria provide a practical way of measuring the relative success of the project and align with the "Key Success Criteria" aspect of the CRISP-DM Business Understanding phase
