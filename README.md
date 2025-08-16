@@ -36,7 +36,7 @@ Beyond classification, we also aim to analyse edit histories to reveal how quick
 
 Finally, the project should provide ranking metrics that highlight high-priority pages. Instead of random edits, contributors can follow a clear queue that shows where updates will have the most impact. In this way, data mining goals directly support fresher, more reliable information on Wikipedia pages about Zambia
 
-# Initial Project Success Criteria
+## Initial Project Success Criteria
 
 Our initial criteria for project success will be measured by:
 
