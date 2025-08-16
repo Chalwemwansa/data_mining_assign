@@ -28,3 +28,12 @@ When updates become routine and guided the quality of the whole collection impro
 
 These objectives align with the CRISP DM phase of Business Understanding  
 Here the aim is to define broad and specific goals while also staying close to the needs of the community that relies on and contributes to this knowledge  
+
+
+## Data Mining
+
+To meet the business obejectives, our task is to develop a classification model that can label the recency of content on Zambian Wikipedia pages. Each section would be tagged as 'Current','Moderately Outdated' or 'Severely Outdated', giving contributors and readers a quick sense of accuracy. This turns the challenge of stale information into a clear, structured task.
+
+Beyond classification, we also aim to analyse edit histories to reveal how quickly different topics become outdated. Some pages, like those on politics, may need frequent updates, while others such as geography remain stable for longer. Spotting these trends helps contributors anticipate where attention will be needed next.
+
+Finally, the project should provide ranking metrics that highlight high-priority pages. Instead of random edits, contributors can follow a clear queue that shows where updates will have the most impact. In this way, data mining goals directly support fresher, more reliable information on Wikipedia pages about Zambia
