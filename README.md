@@ -9,3 +9,22 @@ Without a clear and organized way to identify which pages are stale or contain o
 This lack of direction means that updates can be random or uneven and some topics remain untouched while others are repeatedly edited
 
 Over time this results in a reduced quality of content on and about Zambia making the platform less valuable as a resource for people who rely on it for research learning or keeping up with developments in the country
+
+
+## Business Objectives
+
+From a practical real world view success for this project means being able to identify what is old and what is still current  
+It is about detecting and flagging sections or whole Zambian Wikipedia pages like the Zambia page that hold stale facts  
+Clear signals help both readers and editors see where drift has happened and how serious it is  
+
+The next step is to make updates easier not harder  
+Contributors especially Zambian Wikipedians need a simple way to spot which pages or sections most need attention for factual recency  
+This supports the DataLab Research group as it explores strategies for improving contributions on and about Zambia  
+Having a clear queue of priority pages is more useful than relying on guesswork or scattered edits  
+
+The long term aim is to raise the overall currency of information on Wikipedia pages about Zambia  
+Fresher content increases trust and value whether the pages are used in schools in media or in everyday research  
+When updates become routine and guided the quality of the whole collection improves steadily  
+
+These objectives align with the CRISP DM phase of Business Understanding  
+Here the aim is to define broad and specific goals while also staying close to the needs of the community that relies on and contributes to this knowledge  
