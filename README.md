@@ -8,7 +8,7 @@ In many cases information that once was accurate is left unchanged for long peri
 Without a clear and organized way to identify which pages are stale or contain old data it is difficult for contributors especially Zambian Wikipedians to know where their attention is most needed  
 This lack of direction means that updates can be random or uneven and some topics remain untouched while others are repeatedly edited
 
-Over time this results in a reduced quality of content on and about Zambia making the platform less valuable as a resource for people who rely on it for research learning or keeping up with developments in the country
+Over time this results in a reduced quality of content on and about Zambia making the platform less valuable as a resource for people who rely on it for research learning or keeping up with developments in the country.
 
 ## Business Objectives
 
